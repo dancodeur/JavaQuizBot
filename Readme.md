@@ -4,7 +4,7 @@
 Ce programme propose des questions de culture générale sur différents thèmes, 
 calcule un score et fournit un retour personnalisé en fonction des réponses du joueur.
 
-![Bot Quiz](images/JavaQuiz - dancodeur.png)
+![Bot Quiz](images/JavaQuiz-dancodeur.png)
 
 ## 📖 Fonctionnalités
 
@@ -22,7 +22,7 @@ calcule un score et fournit un retour personnalisé en fonction des réponses du
 ✅ Message final en fonction du score obtenu
 ✅ Expérience interactive en console
 
-![Bot Quiz final-score](images/javaQuiz - final-score.png)
+![Bot Quiz final-score](images/javaQuiz-final-score.png)
 
 ## 🚀 Installation et Exécution
 
